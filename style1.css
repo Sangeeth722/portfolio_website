@@ -1,0 +1,22 @@
+.second_colum{
+
+    display: flex;
+    padding-top: 20px;
+    margin-top: 12px;
+    
+
+}
+.github_image{
+    
+    
+}
+img{
+    width: 40px;
+}
+.linked_in ,.discord ,.github_image ,.reddit{
+    margin-left: 15px;
+    background-color: white;
+    
+
+}
+

@@ -1,0 +1,92 @@
+.third_colum{
+    display: flex;
+    margin-top: 30px;
+}
+
+.third_first_row{
+    display: flex;
+    flex-direction: column;
+    
+    box-shadow: 5px 10px   rgb(114, 114, 114);
+    border: solid gray;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    width: 200px;
+}
+
+.material-symbols-outlined {
+    padding-bottom: 22px;
+    padding-left: 20px;
+    
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+
+}
+.web_developer , .linux,.android, .location{
+    padding-left: 7px;
+   
+}
+.india{
+    margin-left: 60px;
+}
+
+
+.third_second_row{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 5px 10px   rgb(114, 114, 114);
+    border: solid gray;
+    width: 300px;
+    margin-left: 50px;
+    padding-top: 12px;
+    
+}
+.html , .css ,.python{
+    display: flex;
+    flex-direction: column;
+}
+.html_text ,.css_text ,.python_text{
+    margin-top: 5px;
+    margin-left: 14px;
+    
+
+}
+.bar{
+    margin-top: 12px;
+    background-color: white;
+    width: 260px;
+    margin-left: 12px;
+    margin-bottom: 10px;
+}
+    
+
+.first_bar{
+    height: 20px;
+    background-color: #04AA6D;
+    width: 195px;
+    
+}
+.css_bar{
+    height: 20px;
+    background-color: #04AA6D;
+    width: 205px;
+}
+.python_bar{
+    height: 20px;
+    background-color: #04AA6D;
+    width: 175px;
+}
+.javascript_bar{
+    height: 20px;
+    background-color: #04AA6D;
+    width: 50px;
+}
+
+.lua_bar{
+    height: 20px;
+    background-color: #04AA6D;
+    width: 120px;
+}
