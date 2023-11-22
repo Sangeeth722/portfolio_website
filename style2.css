@@ -1,6 +1,7 @@
 .third_colum{
     display: flex;
     margin-top: 30px;
+    flex:1;
 }
 
 .third_first_row{
@@ -11,7 +12,7 @@
     border: solid gray;
     padding-top: 90px;
     padding-bottom: 90px;
-    width: 200px;
+    flex:1;
 }
 
 .material-symbols-outlined {
@@ -39,7 +40,7 @@
     flex-direction: column;
     box-shadow: 5px 10px   rgb(114, 114, 114);
     border: solid gray;
-    width: 300px;
+    flex:1;
     margin-left: 50px;
     padding-top: 12px;
     
